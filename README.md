@@ -1,11 +1,11 @@
 Portfolio Assignment
 ==========================================
-![Assignment Checks](https://github.com/IT3049C/student-portfolio/workflows/Assignment%20Checks/badge.svg)
+![Assignment Checks](https://github.com/Leach-IT3049C/1-online-portfolio-corinmanning2315/workflows/Assignment%20Checks/badge.svg)
 
 Instructions to this assignment can be found [here](https://it3049c.github.io/Material/Assignments/1.Online_Portfolio/).
 ## Checklist:
 - [ ] update the assignment checks above to the correct link
-- [ ] make sure the assignment checks pass
+- [x] update the assignment checks above to the correct link. - Done Automatically
 - [ ] fill out the self evaluation and Reflection
 - [ ] submit the repository and the hosted github pages to Canvas
 
