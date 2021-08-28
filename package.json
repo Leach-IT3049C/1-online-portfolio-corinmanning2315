@@ -1,0 +1,28 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "A student portfolio",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll",
+    "postinstall": "node .scripts/badge.js"
+  },
+  "dependencies": {
+    "directory-tree": "^2.2.4",
+    "jest": "^25.1.0",
+    "jest-json-schema": "^2.1.0",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^7.26.0",
+    "line-replace": "^2.0.1",
+    "simple-git": "^2.39.0"
+  },
+  "jest": {
+    "clearMocks": true,
+    "testEnvironment": "node",
+    "watchPathIgnorePatterns": [
+      "node_modules"
+    ]
+  }
+}
